@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../Node.js"
+		},
+		{
+			"path": "../../../web development"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../inventory management"
+		},
+		{
+			"path": "../../../E-Com-Api"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Node.js"
+	}
+}
